@@ -124,3 +124,5 @@ SHRP_AB := false
 SHRP_REC_TYPE := Treble
 # Recovery Type (It can be A/B or A_only) [Only for About Section]
 SHRP_DEVICE_TYPE := A_Only
+# Recovery Theme
+SHRP_DARK := true
