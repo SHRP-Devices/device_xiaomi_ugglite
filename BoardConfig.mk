@@ -124,5 +124,7 @@ SHRP_AB := false
 SHRP_REC_TYPE := Treble
 # Recovery Type (It can be A/B or A_only) [Only for About Section]
 SHRP_DEVICE_TYPE := A_Only
+# SHRP Express, enables on-the-fly theme patching (also persistent) + persistent lock
+SHRP_EXPRESS := true
 # Recovery Theme
 SHRP_DARK := true
