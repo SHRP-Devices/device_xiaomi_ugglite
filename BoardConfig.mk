@@ -128,5 +128,8 @@ SHRP_DEVICE_TYPE := A_Only
 SHRP_EXPRESS := true
 # Recovery Theme
 SHRP_DARK := true
+# SAR
+SHRP_NO_SAR_AUTOMOUNT := true
+BOARD_BUILD_SYSTEM_ROOT_IMAGE := false
 # Official tag
 SHRP_OFFICIAL := true
